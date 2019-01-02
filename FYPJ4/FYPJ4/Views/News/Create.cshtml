@@ -1,0 +1,73 @@
+﻿@model FYPJ4.Models.News
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>News</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ReportAsAt" class="control-label"></label>
+                <input asp-for="ReportAsAt" class="form-control" />
+                <span asp-validation-for="ReportAsAt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccountCode" class="control-label"></label>
+                <input asp-for="AccountCode" class="form-control" />
+                <span asp-validation-for="AccountCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccountDesc" class="control-label"></label>
+                <input asp-for="AccountDesc" class="form-control" />
+                <span asp-validation-for="AccountDesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FYBudget" class="control-label"></label>
+                <input asp-for="FYBudget" class="form-control" />
+                <span asp-validation-for="FYBudget" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FYSpent" class="control-label"></label>
+                <input asp-for="FYSpent" class="form-control" />
+                <span asp-validation-for="FYSpent" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FYSpentPercent" class="control-label"></label>
+                <input asp-for="FYSpentPercent" class="form-control" />
+                <span asp-validation-for="FYSpentPercent" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FYBalance" class="control-label"></label>
+                <input asp-for="FYBalance" class="form-control" />
+                <span asp-validation-for="FYBalance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Encumbrance" class="control-label"></label>
+                <input asp-for="Encumbrance" class="form-control" />
+                <span asp-validation-for="Encumbrance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Actual" class="control-label"></label>
+                <input asp-for="Actual" class="form-control" />
+                <span asp-validation-for="Actual" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,66 @@
+D:\vs17 Projects\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.deps.json
+D:\vs17 Projects\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.json
+D:\vs17 Projects\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.dev.json
+D:\vs17 Projects\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.dll
+D:\vs17 Projects\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.pdb
+D:\vs17 Projects\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csprojAssemblyReference.cache
+D:\vs17 Projects\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csproj.CoreCompileInputs.cache
+D:\vs17 Projects\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfoInputs.cache
+D:\vs17 Projects\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfo.cs
+D:\vs17 Projects\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.dll
+D:\vs17 Projects\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.deps.json
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.json
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.dev.json
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csprojAssemblyReference.cache
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csproj.CoreCompileInputs.cache
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfoInputs.cache
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfo.cs
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.pdb
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.deps.json
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.json
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.dev.json
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.dll
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.pdb
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csprojAssemblyReference.cache
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csproj.CoreCompileInputs.cache
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfoInputs.cache
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfo.cs
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.dll
+D:\Downloads\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.deps.json
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.json
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.dev.json
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csprojAssemblyReference.cache
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csproj.CoreCompileInputs.cache
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfoInputs.cache
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfo.cs
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\rongliang\Desktop\FYPJ4 (1)\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.deps.json
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.json
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.dev.json
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csprojAssemblyReference.cache
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csproj.CoreCompileInputs.cache
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfoInputs.cache
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfo.cs
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\rongliang\Desktop\LATEST\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csprojAssemblyReference.cache
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.csproj.CoreCompileInputs.cache
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfoInputs.cache
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.AssemblyInfo.cs
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\obj\Debug\netcoreapp2.0\FYPJ4.pdb
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.deps.json
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.json
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.runtimeconfig.dev.json
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.dll
+C:\Users\L31203\Downloads\FYPJ4\FYPJ4\bin\Debug\netcoreapp2.0\FYPJ4.pdb

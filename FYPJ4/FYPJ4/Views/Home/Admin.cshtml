@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Admin";
+}
+
+<h2>Welcome Admin</h2>
+@using (Html.BeginForm("Index", "News", FormMethod.Post))
+{
+
+    <button type="submit">View News Data</button>
+}
+@using (Html.BeginForm("Upload", "News", FormMethod.Post))
+{
+
+    <button type="submit">Upload News</button>
+}
+
+
